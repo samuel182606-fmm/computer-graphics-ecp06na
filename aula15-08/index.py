@@ -2,7 +2,7 @@ import cv2
 import time
 
 # === CONFIG: caminho do vídeo ===
-VIDEO_PATH = r"videoplayback.mp4"  # troque para o seu arquivo
+VIDEO_PATH = r"airplane.mp4"  # troque para o seu arquivo
 
 # --- abre o vídeo ---
 cap = cv2.VideoCapture(VIDEO_PATH)
